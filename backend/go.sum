@@ -23,7 +23,7 @@ github.com/golang/snappy v0.0.1/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEW
 github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=
 github.com/json-iterator/go v1.1.12/go.mod h1:e30LSqwooZae/UwlEbR2852Gd8hjQvJoHmT4TnhNGBo=
 github.com/klauspost/compress v1.13.6 h1:/3/Vjq9QcHkK5uEr5lBEmyoZ1iFhe47etQ6QUkpK6sk=
-github.com/klauspost/compress v1.13.6/go.mod h1:/3/Vjq9QcHkK5uEr5lBEmyoZ1iFhe47etQ6QUkpK6sk=
+github.com/klauspost/compress v1.13.6/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
 github.com/klauspost/cpuid/v2 v2.2.4 h1:acbojRNm+yfM4ubJgKOcHmGyP+d6gLDFgxSds7s4K08=
 github.com/klauspost/cpuid/v2 v2.2.4/go.mod h1:RVVoqg1df56z8g3pUjL/3lE5UfnlrJX8tyFgg4nqhuY=
 github.com/leodido/go-urn v1.2.4 h1:QHVo+1iv6X5LsIe+IdS0NuLzTs1WDTNp+vzezJ5YhZY=
@@ -52,7 +52,7 @@ github.com/xdg-go/stringprep v1.0.4 h1:XLI/Ng3O1Atzq0oBs3TWm+5ZVgkq2aqdlvP9JtoZ6
 github.com/xdg-go/stringprep v1.0.4/go.mod h1:mPGuuIYwz7CmR2bT9j4GbQqutWS1zV24gijq1dTyGkM=
 github.com/youmark/pkcs8 v0.0.0-20181117223130-1be2e3e5546d h1:fZHgsYlfvtyqToslyjUt3VOPF4J7aK/3MPcK7xp3PDk=
 github.com/youmark/pkcs8 v0.0.0-20181117223130-1be2e3e5546d/go.mod h1:ul22v+Nro/R083muKhosV54bj5niojjWZvU8xrevuH4=
-go.mongodb.org/mongo-driver v1.12.1 h1:jxcFY3cPJbDEeJqVxqgXzqHZzqJZzqJZzqJZzqJZzq=
+go.mongodb.org/mongo-driver v1.12.1 h1:/rGBTebI3XYboVmgz+Wv3Bcb13aD0QF9zl6kDDw18rQ=
 go.mongodb.org/mongo-driver v1.12.1/go.mod h1:jxcFY3cPJbDEeJqVxqgXzqHZzqJZzqJZzqJZzqJZzq=
 golang.org/x/arch v0.3.0 h1:02VY4/ZcO/gBOH6PUaoiptASxtXU10VDbq3AvjJ78Rg=
 golang.org/x/arch v0.3.0/go.mod h1:5om86z9H+uP4u1L54xm3Zz/qD8CkVUuW8OZ6q4h4uok=
