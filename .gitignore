@@ -1,0 +1,62 @@
+# Golang
+# Bỏ qua các file và thư mục tạo ra bởi Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/vendor/
+
+# React
+# Bỏ qua các file và thư mục của React
+node_modules/
+build/
+dist/
+*.log
+*.env
+*.yarn-integrity
+/.pnp
+.pnp.js
+
+# Python
+# Bỏ qua các file và thư mục của Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.env
+*.venv/
+venv/
+ENV/
+env/
+.venv/
+*.coverage
+*.hypothesis/
+*.tox/
+*.nox/
+*.coverage.*
+*.pytest_cache/
+*.hypothesis/
+*.tox/
+
+# IDEs & Editors
+# Bỏ qua các file của các IDE như VSCode, PyCharm, IntelliJ, v.v.
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+# Bỏ qua các file hệ điều hành (macOS, Windows, v.v.)
+.DS_Store
+Thumbs.db
